@@ -1,7 +1,3 @@
-//Jessica Stewart
-//Skyline Problem
-//
-
 import java.util.*;
 
 //Initialize object of type Building
